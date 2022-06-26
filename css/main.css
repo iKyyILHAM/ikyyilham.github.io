@@ -1989,7 +1989,7 @@ overflow-x: hidden;
   background-color: #02182c;
   background-repeat: no-repeat;
   background-position: top center;
-  background-image: url(/images/hero-pic.png);
+  background-image: url(hero-pic.png);
   background-size: cover;
   position: absolute;
   top: 20%;
